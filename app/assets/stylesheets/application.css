@@ -42,6 +42,17 @@ h1{
 }
 
 .section2 h3{
-    
     text-align:center;
+}
+
+.image2{
+    text-align:center;
+}
+.icon2{
+    border-radius:50%;
+    width:100px;
+}
+
+.icon2:hover{
+    width:30%;
 }
